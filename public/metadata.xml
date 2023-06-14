@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lom.xsd">
+   <general>
+      <identifier>
+         <catalog>Catalog</catalog>
+         <entry>1</entry>
+      </identifier>
+      <title>
+         <string language="en-US">Рекомендаций WCAG для разработчиков электронных курсов</string>
+      </title>
+      <language>en</language>
+      <description>
+         <string language="en-US"/>
+      </description>
+      <keyword>
+         <string language="en-US"/>
+      </keyword>
+   </general>
+   <lifeCycle>
+      <version>
+         <string language="en-US">1</string>
+      </version>
+      <status>
+         <source>LOMv1.0</source>
+         <value>final</value>
+      </status>
+   </lifeCycle>
+   <metaMetadata>
+      <metadataSchema>LOMv1.0</metadataSchema>
+      <metadataSchema>SCORM_CAM_v1.3</metadataSchema>
+   </metaMetadata>
+   <technical>
+      <format>text/html</format>
+   </technical>
+   <rights>
+      <cost>
+         <source>LOMv1.0</source>
+         <value>yes</value>
+      </cost>
+      <copyrightAndOtherRestrictions>
+         <source>LOMv1.0</source>
+         <value>yes</value>
+      </copyrightAndOtherRestrictions>
+   </rights>
+   <classification>
+      <purpose>
+         <source>LOMv1.0</source>
+         <value>educational objective</value>
+      </purpose>
+      <description>
+         <string language="en-US"/>
+      </description>
+      <keyword>
+         <string language="en-US"/>
+      </keyword>
+   </classification>
+</lom>
